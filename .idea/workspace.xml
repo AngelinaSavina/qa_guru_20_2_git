@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5d0a613-59ae-4fa5-918f-9eb40b208a5d" name="Changes" comment="Add homework">
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/FirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d5d0a613-59ae-4fa5-918f-9eb40b208a5d" name="Changes" comment="First test was changed">
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/FirstTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FirstTest.firstTest" />
+        <item itemvalue="Gradle.FirstTest" />
         <item itemvalue="Gradle.FirstTest" />
         <item itemvalue="Gradle.FirstTest.firstTest" />
       </list>
@@ -133,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685211888501</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add test">
+      <created>1685212550305</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685212550305</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First test was changed">
+      <created>1685212709471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685212709471</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +164,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add homework" />
+    <MESSAGE value="Add test" />
+    <MESSAGE value="First test was changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="First test was changed" />
   </component>
 </project>
